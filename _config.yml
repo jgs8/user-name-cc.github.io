@@ -9,7 +9,7 @@
 title: Deploy a Website
 email: example@email.com
 description: > # this means to ignore newlines until "baseurl:"
-  Welcome to the sample Jekyll-generate site created in Codecademy's Deploy a Website course!
+  Welcome to the sample Jekyll-generated site created in Codecademy's Deploy a Website course!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://facemail.org" # the base hostname & protocol for your site
 twitter_username: codecademy
